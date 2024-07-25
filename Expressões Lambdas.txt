@@ -1,0 +1,2 @@
+ Expressões lambda é uma forma compacta de escrever implementações de interfaces funcionais, elas permitem que você defina blocos de código como argumentos de uma função, sem precisar escrever uma classe completa para isso, diferente das expressões comuns.
+ As expressões lambda tornam o código mais legível, reduzem a quantidade de boilerplate e facilitam a escrita de funções anônimas.
